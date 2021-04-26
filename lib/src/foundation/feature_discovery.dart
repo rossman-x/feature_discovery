@@ -15,6 +15,8 @@ enum ContentLocation {
   above,
   below,
   trivial,
+  right,
+  left
 }
 
 class FeatureDiscovery extends StatelessWidget {
